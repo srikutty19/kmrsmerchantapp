@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "465251440510",
+    "firebase_url": "https://kovaideliveryboys-ad870.firebaseio.com",
+    "project_id": "kovaideliveryboys-ad870",
+    "storage_bucket": "kovaideliveryboys-ad870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465251440510:android:4c4210c73003d565",
+        "android_client_info": {
+          "package_name": "kdb.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465251440510-tbodg5k8139c1n1id260ug4jocdvf4l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHCxBsBN18weReLG2mIzgJqmyWyDuPzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465251440510:android:f0d4fab63ababe5e",
+        "android_client_info": {
+          "package_name": "kdb.merchant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465251440510-hdtti0ujpdhh43qbrebsokm1hu2p4kjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kdb.merchant.app",
+            "certificate_hash": "b642d0e376acc0ce503f3257fef936a8108f00e7"
+          }
+        },
+        {
+          "client_id": "465251440510-tbodg5k8139c1n1id260ug4jocdvf4l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHCxBsBN18weReLG2mIzgJqmyWyDuPzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465251440510-tbodg5k8139c1n1id260ug4jocdvf4l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465251440510:android:2fe0c7afbec91ffc",
+        "android_client_info": {
+          "package_name": "kdb.mobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465251440510-tbodg5k8139c1n1id260ug4jocdvf4l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHCxBsBN18weReLG2mIzgJqmyWyDuPzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
