@@ -2,13 +2,13 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id        = "kdb.merchant.app"
-    version   = "1.0.1">
-    <name>Kdb Order Taking App</name>
+    id        = "fc.merchant.app"
+    version   = "1.0">
+    <name>Foodieschoice Order Taking App</name>
     <description>
-        Kdb Order Taking App
+        Foodieschoice Order Taking App
     </description>
-    <author email="remijeous@gmail.com" href="http://cordova.io">
+    <author email="trichysoftsolutions@gmail.com" href="http://foodieschoice.tk">
     </author>
     <icon src="icon.png" />           
     <content src="index.html" />
