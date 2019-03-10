@@ -1,7 +1,7 @@
 
 var krms_config ={			
-	'ApiUrl' : "http://foodieschoice.tk/merchantapp/api",	
+	'ApiUrl' : "http://rapidtest.ga/restomulti/merchantapp/api",	
 	'DialogDefaultTitle' : " Fc MERCHANT",
 	'pushNotificationSenderid' : "465251440510",
-	'APIHasKey' : "f777ae1e409c7b00704fefccaf0fdc70"
+	'APIHasKey' : "e7fd6af77a1d45f791880ddebaee29f4"
 };
